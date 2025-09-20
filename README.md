@@ -6,3 +6,6 @@ A mass of 100 kg is connected with a spring of 10 kN/m. There is a damper of 200
 
 Q2: Critically damped case
 Changing the damping value from 200 N/s to 2000 N/s.
+
+Q3: Overdamped case:
+Change the damping value from 200 N/s to 20000 N/s.
