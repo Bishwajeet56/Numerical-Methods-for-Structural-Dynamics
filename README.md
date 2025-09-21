@@ -9,3 +9,5 @@ Changing the damping value from 200 N/s to 2000 N/s.
 
 Q3: Overdamped case:
 Change the damping value from 200 N/s to 20000 N/s.
+
+Q4: A sinusoidal acceleration xg_dot_dot  = sin (2*pi*t) is applied to a mass of 100 kg. The mass is connected with a spring of stiffness 10 kN/m and viscous damper of damping 200 Ns/m.
