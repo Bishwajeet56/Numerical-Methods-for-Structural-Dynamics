@@ -3,7 +3,7 @@
 
 import numpy as np
 import matplotlib.pyplot as plt
-
+import pandas as pd
 # Given data
 m = 100  # kg
 Tn = 0.62832  # sec (natural period)
